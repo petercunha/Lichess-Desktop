@@ -2,7 +2,7 @@
   "name": "Lichess",
   "version": "1.0.0",
   "description": "Free online chess",
-  "main": "main.js",
+  "main": "app/main.js",
   "scripts": {
     "start": "electron ."
   },
