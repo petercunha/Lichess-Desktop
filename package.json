@@ -1,0 +1,22 @@
+{
+  "name": "Lichess",
+  "version": "1.0.0",
+  "description": "Free online chess",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "Nope",
+  "keywords": [
+    "Lichess",
+    "quick",
+    "start",
+    "tutorial",
+    "demo"
+  ],
+  "author": "Peter Cunha",
+  "license": "CC0-1.0",
+  "devDependencies": {
+    "electron": "^1.4.1"
+  }
+}
