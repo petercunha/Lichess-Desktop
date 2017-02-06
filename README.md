@@ -1,2 +1,2 @@
 # Lichess-Desktop
-A desktop client for the lichess.org chess website
+A cross-platform desktop client for the lichess.org chess website, built with [Electron](http://electron.atom.io/).
